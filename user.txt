@@ -1,0 +1,6 @@
+admin, adm1n
+courage, courage.2000
+bob, builder
+Serge, Thomas
+logan, pie
+Ted, Bundy
